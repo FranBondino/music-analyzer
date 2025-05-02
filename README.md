@@ -84,3 +84,6 @@ Dependencies
 
 Python 3.8+
 Libraries: librosa, youtube-dl, pandas, numpy, matplotlib, scikit-learn
+
+License
+MIT License
